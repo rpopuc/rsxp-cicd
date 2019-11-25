@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rpopuc/rsxp-cicd/issues"
   },
-  "homepage": "https://github.com/rpopuc/rsxp-cicd#readme"
+  "homepage": "https://github.com/rpopuc/rsxp-cicd#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
